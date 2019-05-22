@@ -1,0 +1,11 @@
+{
+  "name": "WizardDoingMagic",
+  "version": "0.0.1",
+  "description": "Just a small node project to read values from a DHT11 sensor",
+  "scripts": {
+    "start": "node wizard.js"
+  },
+  "dependencies": {
+    "node-dht-sensor": "latest"
+  }
+}
